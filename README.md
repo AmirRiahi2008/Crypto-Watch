@@ -1,4 +1,4 @@
-<a herf="https://crypto-watch-2qsx3ckej-amirrezas-projects-4fd6211a.vercel.app/">DEMO</a>
+Demo : [https://crypto-watch-2qsx3ckej-amirrezas-projects-4fd6211a.vercel.app/]([http://localhost:3000](https://crypto-watch-2qsx3ckej-amirrezas-projects-4fd6211a.vercel.app/))
 
 # Getting Started with Create React App
 
