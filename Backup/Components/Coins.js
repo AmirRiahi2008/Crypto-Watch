@@ -1,0 +1,92 @@
+export const coins = [
+  {
+    coinName: "Bitcoin",
+    unit: "دلار",
+    shortened: "BTC",
+    imageUrl: "./assets/image/Arz/btc.png",
+  },
+  {
+    coinName: "Ethereum",
+    unit: "دلار",
+    shortened: "ETH",
+    imageUrl: "./assets/image/Arz/eth.png",
+  },
+  {
+    coinName: "BNB",
+    unit: "دلار",
+    shortened: "BNB",
+    imageUrl: "./assets/image/Arz/bnb.png",
+  },
+  {
+    coinName: "Tether",
+    unit: "دلار",
+    shortened: "USDT",
+    imageUrl: "./assets/image/Arz/usdt.png",
+  },
+  {
+    coinName: "Tron",
+    unit: "دلار",
+    shortened: "TRX",
+    imageUrl: "./assets/image/Arz/trx.png",
+  },
+  {
+    coinName: "Dogecoin",
+    unit: "دلار",
+    shortened: "DOGE",
+    imageUrl: "./assets/image/Arz/doge.png",
+  },
+  {
+    coinName: "Solana",
+    unit: "دلار",
+    shortened: "SOL",
+    imageUrl: "./assets/image/Arz/sol.png",
+  },
+  {
+    coinName: "XRP",
+    unit: "دلار",
+    shortened: "XRP",
+    imageUrl: "./assets/image/Arz/xrp.png",
+  },
+  {
+    coinName: "Cardano",
+    unit: "دلار",
+    shortened: "ADA",
+    imageUrl: "./assets/image/Arz/ada.png",
+  },
+  {
+    coinName: "Avalanche",
+    unit: "دلار",
+    shortened: "AVAX",
+    imageUrl: "./assets/image/Arz/avax.png",
+  },
+  {
+    coinName: "Shiba",
+    unit: "دلار",
+    shortened: "SHIB",
+    imageUrl: "./assets/image/Arz/shib.png",
+  },
+  {
+    coinName: "Chainlink",
+    unit: "دلار",
+    shortened: "LINK",
+    imageUrl: "./assets/image/Arz/link.png",
+  },
+  {
+    coinName: "Bitcoin Cash",
+    unit: "دلار",
+    shortened: "BCH",
+    imageUrl: "./assets/image/Arz/bch.png",
+  },
+  {
+    coinName: "Litecoin",
+    unit: "دلار",
+    shortened: "LTC",
+    imageUrl: "./assets/image/Arz/ltc.png",
+  },
+  {
+    coinName: "Polkadot",
+    unit: "دلار",
+    shortened: "DOT",
+    imageUrl: "./assets/image/Arz/dot.png",
+  },
+];
